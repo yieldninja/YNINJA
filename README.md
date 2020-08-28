@@ -9,6 +9,7 @@ Minimum targeted return: 1 % per day.
 No staking. 
 No opening vaults. 
 Just buy YNINJA or earn it by using our exchange to buy your tokens and hodl in your wallet. 
+Token Sale: https://chaincraft.cc/ico/0xdee8760c12eE7667D37EF973A0260E1d00D3170E
 Watch the value of YNINJA grow! Best of DeFi and CeFi with No KYC, Low Transfer fees and Unlimited Liquidity. 
 Send your Ethereum transaction Hash to ninja@yield.ninja to claim your YNINJA Yield tokens. 
 Our Partners: Exchange: change NOW https://changenow.io/
